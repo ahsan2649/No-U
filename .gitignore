@@ -12,6 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Build/*
 Build/NoU.zip
 Build/Windows/Engine/Content/Slate/Cursor/invisible.cur
 Build/Windows/Engine/Content/SlateDebug/Fonts/LastResort.tps
